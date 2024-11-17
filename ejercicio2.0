@@ -1,0 +1,5 @@
+git add README.md
+git commit -m "Add README.md with a brief description"
+echo 'print("Hola Mundo")' > main.py
+git add main.py
+git commit -m "Add main.py with a basic print statement"
