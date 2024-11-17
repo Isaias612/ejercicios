@@ -1,0 +1,3 @@
+echo '## Sección de ejemplos' >> README.md
+git add README.md
+git commit -m "Add examples section to README.md"
