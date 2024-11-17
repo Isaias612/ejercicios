@@ -1,0 +1,3 @@
+echo 'print("Aprendiendo Git paso a paso")' >> main.py
+git add main.py
+git commit -m "Add additional print statement to main.py"
